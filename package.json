@@ -1,7 +1,7 @@
 {
   "name": "ts-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "En este trabajo práctico, vamos a consumir un endpoint que nos va a devolver 20 productos que luego listaremos en una tabla de Bootstrap y mientras hacemos la consulta mostraremos un spinner y lo ocultaremos cuando tengamos el resultado.",
   "main": "index.js",
   "scripts": {
     "build": "tsc ./index.ts"
